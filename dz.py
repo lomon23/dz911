@@ -29,4 +29,3 @@ validate_month(user_input[1])
 validate_year(user_input[2])
 create_test_file(*user_input)
 
-print('hello world')
